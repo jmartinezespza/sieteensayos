@@ -245,7 +245,7 @@
 <node CREATED="1570165859065" ID="ID_717835058" MODIFIED="1570165875137" TEXT="Era en la pr&#xe1;ctica como un se&#xf1;or feudal"/>
 </node>
 </node>
-<node CREATED="1570166699303" ID="ID_1081116634" MODIFIED="1570166707862" TEXT="La revoluci&#xf3;n - independencia">
+<node CREATED="1570166699303" ID="ID_1081116634" MODIFIED="1570207419471" TEXT="La revoluci&#xf3;n - independencia">
 <node CREATED="1570166709715" ID="ID_458909945" MODIFIED="1570166728217" TEXT="Clases seg&#xfa;n Echeverria">
 <node CREATED="1570166733313" ID="ID_1339228850" MODIFIED="1570166750693" TEXT="Togado, Clero y Mandones">
 <node CREATED="1570166830520" ID="ID_1721303290" MODIFIED="1570166851085" TEXT="Aristocracia, espa&#xf1;oles y algunos americanos"/>
@@ -258,6 +258,43 @@
 </node>
 </node>
 <node CREATED="1570167267527" ID="ID_1861779402" MODIFIED="1570167292148" TEXT="La clase aristocr&#xe1;tica feudal sigui&#xf3; dominando"/>
+</node>
+<node CREATED="1570206880483" ID="ID_1807986563" MODIFIED="1570206908358" TEXT="Comunismo Inkaico vs Comunismo Moderno">
+<node CREATED="1570206912691" ID="ID_1506655220" MODIFIED="1570206930925" TEXT="Son cosas distintas"/>
+<node CREATED="1570206949145" ID="ID_683147317" MODIFIED="1570206963976" TEXT="Producto de distintas experinecias humanas"/>
+<node CREATED="1570206968137" ID="ID_1484898854" MODIFIED="1570206992696" TEXT="Distintas &#xe9;pocas hist&#xf3;ricas"/>
+<node CREATED="1570207003812" ID="ID_494636856" MODIFIED="1570207029168" TEXT="Comunismo Inka">
+<node CREATED="1570207033300" ID="ID_692781596" MODIFIED="1570207069065" TEXT="Civilizaci&#xf3;n Agraria"/>
+<node CREATED="1570207104102" ID="ID_1466394177" MODIFIED="1570207117155" TEXT="El hombre se somet&#xed;a a la naturaleza"/>
+<node CREATED="1570207169976" ID="ID_315674803" MODIFIED="1570207681233" TEXT="Para el liberal individualista no existi&#xf3; libertad">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1570207224049" ID="ID_571754487" MODIFIED="1570207231485" TEXT="Pueblo esclavo, infeliz"/>
+<node CREATED="1570207345076" ID="ID_1734825965" MODIFIED="1570207362977" TEXT="Base jur&#xed;dica de la civilizaci&#xf3;n capitalista"/>
+</node>
+</node>
+<node CREATED="1570207072157" ID="ID_1339263117" MODIFIED="1570207076962" TEXT="Comunismo moderno">
+<node CREATED="1570207079781" ID="ID_1712751337" MODIFIED="1570207090764" TEXT="Civilizaci&#xf3;n Industrial"/>
+<node CREATED="1570207119606" ID="ID_1466462135" MODIFIED="1570207149516" TEXT="La naturaleza se somete a veces al hombre"/>
+<node CREATED="1570207377517" ID="ID_1874375979" MODIFIED="1570207672515" TEXT="No sent&#xed;an ninguna necesidad de libertad individual">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="messagebox_warning"/>
+<node CREATED="1570207499417" ID="ID_396498844" MODIFIED="1570207655028" TEXT="Libertad de imprenta">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1570207530730" ID="ID_321266387" MODIFIED="1570207657289" TEXT="Especulaci&#xf3;n">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1570207562571" ID="ID_102968675" MODIFIED="1570207659653" TEXT="Creaci&#xf3;n intelectual">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1570207589939" ID="ID_1248082596" MODIFIED="1570207662520" TEXT="Necesidad de comerciar, contratar, traficar">
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1570207617404" ID="ID_1276520042" MODIFIED="1570207665241" TEXT="La libertad es un invento de nuestra sociedad">
+<icon BUILTIN="forward"/>
+</node>
+</node>
+</node>
 </node>
 </node>
 </node>
